@@ -1,7 +1,3 @@
--- 🔥 KING LEGACY ULTIMATE HUB (CORRIGIDO 2026) 🔥
--- Erros fixados: Remotes atualizados + pcall total + GUI melhorada
--- Funciona Delta/Fluxus/Arceus X Mobile/PC - UPD 9+
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")
