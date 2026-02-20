@@ -1,6 +1,3 @@
--- 🔥 KING LEGACY HUB FIX FINAL 2026 - Minato Edition 🔥
--- Todos erros corrigidos: sintaxe, nil, duplicatas, GUI limpa
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")
